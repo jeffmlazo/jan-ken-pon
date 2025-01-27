@@ -49,7 +49,7 @@ docker-compose down
 
 ```
 
-### Screenshots
+## Screenshots
 **Screenshot #1**
 ![image alt](https://github.com/jeffmlazo/jan-ken-pon/blob/2a2b410c0e820eb9e1429ce120d7c82698c160fb/screenshot1.jpg)
 
