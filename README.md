@@ -49,6 +49,13 @@ docker-compose down
 
 ```
 
+### Screenshots
+**Screenshot #1**
+![image_alt]()
+
+**Screenshot #2**
+![image_alt]()
+
 ### :wrench: Installed Dependencies
 - **Axios**
 - **Laravel Sail**
